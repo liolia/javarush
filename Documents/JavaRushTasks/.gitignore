@@ -1,0 +1,7 @@
+Инструкция.png
+.idea
+JavaRushPlugin.properties
+JavaRushTasks.iml
+*.log
+out
+JavaRush*
