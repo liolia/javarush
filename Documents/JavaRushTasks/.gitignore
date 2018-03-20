@@ -4,4 +4,4 @@ JavaRushPlugin.properties
 JavaRushTasks.iml
 *.log
 out
-JavaRush*
+out.log
